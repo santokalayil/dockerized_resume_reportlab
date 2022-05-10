@@ -20,7 +20,7 @@ data = {
             '''Machine Learning: Supervised & Unsupervised Learning (Regression, Classification, PCA, Clustering.)''',
             '''Interpreting ML Results using LIME & SHAP interpretation techniques''',
             '''Programming - Python (Advanced), Rust (Intermediate), Julia(Basic). Python based-skills in automated pdf report and document generation using Report Lab Python and Social Media Automation. GUI App Creation using FLTK Rust, Kivy Python''',
-            '''Experience with docker, web-APIs, Insomnia, Postman, OpenCV, NLTK, DASK, Gradio, Streamlit''',
+            '''Experience with Docker, Git, web-APIs, Insomnia, Postman, OpenCV, NLTK, DASK, Gradio, Streamlit''',
             '''Database: MySQL, Postgres, Sqlite, MongoDB''',
             '''Operating Systems: Linux (Bash & Python Scripting), Windows. Command Line Skills (Linux terminal, Windows Command Prompt and Powershell)''',
             '''Data Collection using Web-scraping and Web-automation tools like Beautiful Soup, Playwright, Selenium, Requests, PyAutoGUI''',

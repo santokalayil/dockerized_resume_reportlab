@@ -175,7 +175,7 @@ Elements += ribbon(height=8, width=PAGE_FRAME_WIDTH, color=color_white) # after 
 # ============================================================================
 # switching to next page
 from reportlab.platypus import PageBreak
-Elements.append(PageBreak())
+# Elements.append(PageBreak())
 Elements += ribbon(height=10, width=PAGE_FRAME_WIDTH, color=color_white)
 
 # ===========================  Education table ===============================
